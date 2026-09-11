@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Company.ClassLibrary1;
+﻿namespace simpleGit;
 
 public class account
 {

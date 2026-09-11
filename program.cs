@@ -4,7 +4,7 @@ namespace simpleGit;
 
 class program
 {
-    static void main()
+    static void Main()
     {
         Console.WriteLine("Hello. Git!");
         Console.WriteLine(DoSomething("Michael"));
