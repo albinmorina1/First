@@ -8,11 +8,10 @@ class program
     {
         Console.WriteLine("Hello. Git!");
         Console.WriteLine(DoSomething("Michael"));
-        
     }
 
     static string DoSomething(string name)
     {
-        return name;
+        return $"Hello {name}";
     }
 }
