@@ -1,6 +1,6 @@
 ﻿namespace simpleGit;
 
-public class account
+public class Account
 {
     public int Balance { get; set; }
     public string AccountNumber { get; set; } = "";
